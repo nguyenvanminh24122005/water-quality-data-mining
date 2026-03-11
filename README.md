@@ -123,3 +123,7 @@ water_project/
 │
 └── scripts/
     └── predict_water.py
+
+
+lệnh python -m streamlit run app.py 
+python scripts/predict_water.py
